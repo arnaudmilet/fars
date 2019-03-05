@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# fars
+
+L'intérêt de fars est d'importer, traiter et résumer les données fars
+
+## Installation
+
+Vous pouvez installer le package depuis github avec:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("arnaudmilet/fars")
+```
