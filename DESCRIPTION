@@ -1,9 +1,9 @@
 Package: fars
 Title: Traitement de fars
 Version: 0.0.0.9000
-Authors@R: person("arnaud", "milet", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("arnaud", "milet", email = "arnaud.milet@d-sidd.com", role = c("aut", "cre"))
 Description: : Un package qui importe et traite les donnees fars.
-Depends: R (>= 3.4.3)
+Depends: R (>= 3.4.0)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
