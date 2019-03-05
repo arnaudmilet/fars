@@ -3,6 +3,8 @@
 fars
 ====
 
+[![Build Status](https://travis-ci.org/arnaudmilet/fars.svg?branch=master)](https://travis-ci.org/arnaudmilet/fars)
+
 L'intérêt de fars est d'importer, traiter et résumer les données fars
 
 Installation
